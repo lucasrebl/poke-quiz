@@ -58,7 +58,7 @@ src/
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/yourusername/poke-quiz.git
+git clone https://github.com/lucasrebl/poke-quiz.git
 cd poke-quiz
 
 # Installer les dépendances
